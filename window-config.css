@@ -1,0 +1,19 @@
+main{
+    min-height: 100%;   
+}
+::-webkit-scrollbar{
+    background: black;
+    width: 16px;
+}
+html, body {
+    margin: 0%;
+    padding: 0%;
+    overflow-x: hidden;
+}
+::-webkit-scrollbar{
+    background: black;
+}
+body::-webkit-scrollbar-thumb {
+    border: 2px solid black;
+    background-color: rgb(31, 32, 36); 
+}

@@ -1,0 +1,50 @@
+
+.display--none{
+    display: none;
+}
+.display--block{
+    display: inline-block;
+}
+
+.display--flex{
+    display: flex;
+}
+.display--inline-flex{
+    display: inline-flex;
+}
+.display--grid{
+    display: grid;
+}
+.display--inline-grid{
+    display: inline-grid;
+}
+.display--flow-root{
+    display: flow-root;
+}
+.display--contents{
+    display: contents;
+}
+.display--table{
+    display: table;
+}
+.display--table-row{
+    display: table-row;
+}
+.display--list-item{
+    display: list-item;
+}
+.display--inherit{
+    display: inherit;
+}
+.display--initial{
+    display: initial;
+}
+.display--revert{
+    display: revert;
+}
+.display--revert-layer{
+    display: revert-layer;
+}
+.display--unset{
+    display: unset;
+}

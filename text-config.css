@@ -1,0 +1,23 @@
+html, body{
+    font-family: 'SF-Pro-Display-Ultralight';
+    font-size: 15px;
+    letter-spacing: 1px;
+}
+.text-face--bold{
+    font-family: 'SF-Pro-Display-Semibold';
+}
+.text-face--normal{
+    font-family: 'SF-Pro-Display-Ultralight';
+}
+.text-face--italic{
+    font-family: 'SF-Pro-Display-UltralightItalic';
+    text-decoration: italic;
+}
+.text-face--bold-italic{
+    font-family: 'SF-Pro-Display-HeavyItalic';
+    text-decoration: italic;
+} 
+.text-face--italic-bold{
+    font-family: 'SF-Pro-Display-HeavyItalic';
+    text-decoration: italic;
+}

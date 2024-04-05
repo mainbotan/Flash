@@ -1,0 +1,29 @@
+
+.outline--solid-red{
+    outline: 1px solid red;
+}
+.outline--dashed-red{
+    outline: 1px dashed red;
+}
+
+.outline--solid-grey{
+    outline: 1px solid #eee;
+}
+.outline--dashed-grey{
+    outline: 1px dashed #eee;
+}
+
+.border--solid-red{
+    border: 1px solid red;
+}
+.border--dashed-red{
+    border: 1px dashed red;
+}
+
+.border--solid-grey{
+    border: 1px solid #eee;
+}
+.border--dashed-grey{
+    border: 1px dashed #eee;
+}
+

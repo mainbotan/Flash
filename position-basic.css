@@ -1,0 +1,31 @@
+
+.position--static{
+    position: static;
+}
+.position--relative{
+    position: relative;
+}
+.position--absolute{
+    position: absolute;
+}
+.position--fixed{
+    position: fixed;
+}
+.position--sticky{
+    position: sticky;
+}
+.position--inherit{
+    position: inherit;
+}
+.position--initial{
+    position: initial;
+}
+.position--revert{
+    position: revert;
+}
+.position--revert-layer{
+    position: revert-layer;
+}
+.position--unset{
+    position: unset;
+}

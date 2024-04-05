@@ -1,0 +1,15 @@
+
+.state--block-td{
+    width: 1px; 
+    white-space: nowrap; 
+}
+.state--cover{
+    background-size: cover;
+}
+.state--pointer{
+    cursor: pointer;
+}
+.state--break{
+    word-wrap: break-word;
+    white-space: normal;
+}
